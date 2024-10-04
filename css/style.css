@@ -1,0 +1,94 @@
+.cabeza{
+    background-color: black;
+   
+}
+.cabeza img{
+    margin-left: 100px;
+}
+.section1{
+    background-image:url(../img/Captura2.PNG);
+    margin-top: -39px;
+}
+.superior{
+   color: white;
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+    
+}
+.superior h1{
+    font-size: 60px;
+}
+.superior p{
+    font-size: 25PX;
+}
+.formulario{
+    background-color: rgba(255, 255, 255, 0.575);
+    width: 30%;
+    text-align: center;
+    margin-left: 50%;
+    margin-top: -410px;
+    height: 450px;
+  
+}
+.formulario input{
+    width: 50%;
+    padding: 10px 10px;
+    
+}
+.formulario p{
+    text-align: left;
+    margin-left: 130px;
+}
+.formulario label{
+    margin-left: -130px;
+}
+.formulario button{
+    color: white;
+    background-color: aqua;
+    width: 55%;
+    padding: 10px 10px;
+}
+.baja{
+    text-align: center;
+}
+.baja h2{
+    color: rgb(40, 209, 209);
+    margin-bottom: -10px;
+}
+.ttd{
+    text-align: center;
+
+}
+.imagen img{
+    width: 10%;
+    height: 150px;
+    margin-left: 50px;    
+    margin-bottom:80px;
+}
+.imagen button{
+    width: 180px;
+    margin-left: 60px;
+    padding: 10px 20px;
+    background-color: rgb(29, 207, 207);
+    color: white;
+}
+
+.final{
+    background-color: rgb(49, 153, 167);
+    text-align: center;
+    
+}
+.final img{
+    margin-bottom: -150px;
+    margin-right: 1300px;
+    height: 200px;
+}
+.final h3{
+    margin-top: -20px;
+}
+footer{
+    text-align: center;
+}
+
+
